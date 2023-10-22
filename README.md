@@ -11,7 +11,7 @@ This phase comprises 6 React tasks, each carefully crafted to bolster my skills 
 
 For a hands-on experience, check out the live deployment of my Phase 3 React projects at the following link:
 
-[Will be updated soon](https://)
+https://aswinpkumar01.github.io/React-Tasks/
 
 ### Current Journey
 
