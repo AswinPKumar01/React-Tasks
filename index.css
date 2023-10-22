@@ -1,7 +1,8 @@
-
-
-body{
-    background-color: #dddddd;
+body {
+    background: linear-gradient(to right, #dddddd, #dddddd); /* Set your initial gradient background */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    transition: background 0.3s; /* Add a smooth transition for the background */
 }
 
 table {
